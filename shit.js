@@ -5,3 +5,4 @@ const shit = () => {
 };
 
 export default shit;
+피곤해 디지겟다 진짜..
