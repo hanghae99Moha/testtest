@@ -1,4 +1,7 @@
 const [tired, hungry] = minwoo;
+const a = a;
+const b = b;
+const c = c;
 
 // 작업을 수정했어요
 // 작업을 수정했어요
