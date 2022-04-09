@@ -3,6 +3,10 @@ const a = a;
 const b = b;
 const c = c;
 
+// 추가 작업
+const d = d;
+const e = e;
+
 // 작업을 수정했어요
 // 작업을 수정했어요
 // 작업을 수정했어요
